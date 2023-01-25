@@ -1,0 +1,11 @@
+C:\Users\heito\Documents\Projeto_C#\.vscode\visualizarprodutos\bin\Debug\visualizarprodutos.exe.config
+C:\Users\heito\Documents\Projeto_C#\.vscode\visualizarprodutos\bin\Debug\visualizarprodutos.exe
+C:\Users\heito\Documents\Projeto_C#\.vscode\visualizarprodutos\bin\Debug\visualizarprodutos.pdb
+C:\Users\heito\Documents\Projeto_C#\.vscode\visualizarprodutos\obj\Debug\visualizarprodutos.csproj.AssemblyReference.cache
+C:\Users\heito\Documents\Projeto_C#\.vscode\visualizarprodutos\obj\Debug\visualizarprodutos.csproj.SuggestedBindingRedirects.cache
+C:\Users\heito\Documents\Projeto_C#\.vscode\visualizarprodutos\obj\Debug\visualizarprodutos.Form1.resources
+C:\Users\heito\Documents\Projeto_C#\.vscode\visualizarprodutos\obj\Debug\visualizarprodutos.Properties.Resources.resources
+C:\Users\heito\Documents\Projeto_C#\.vscode\visualizarprodutos\obj\Debug\visualizarprodutos.csproj.GenerateResource.cache
+C:\Users\heito\Documents\Projeto_C#\.vscode\visualizarprodutos\obj\Debug\visualizarprodutos.csproj.CoreCompileInputs.cache
+C:\Users\heito\Documents\Projeto_C#\.vscode\visualizarprodutos\obj\Debug\visualizarprodutos.exe
+C:\Users\heito\Documents\Projeto_C#\.vscode\visualizarprodutos\obj\Debug\visualizarprodutos.pdb
